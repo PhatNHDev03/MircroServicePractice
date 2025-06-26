@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work_space\\cycberSoft\\cycberSoft_dotnet2\\Session48_Microservice\\AuthenticationService\\AuthentProject\\AuthentProject.csproj": {}
+    "D:\\Work_space\\cycberSoft\\Deploy\\AuthenticationService\\AuthentProject\\AuthentProject.csproj": {}
   },
   "projects": {
-    "D:\\Work_space\\cycberSoft\\cycberSoft_dotnet2\\Session48_Microservice\\AuthenticationService\\AuthentProject\\AuthentProject.csproj": {
+    "D:\\Work_space\\cycberSoft\\Deploy\\AuthenticationService\\AuthentProject\\AuthentProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work_space\\cycberSoft\\cycberSoft_dotnet2\\Session48_Microservice\\AuthenticationService\\AuthentProject\\AuthentProject.csproj",
+        "projectUniqueName": "D:\\Work_space\\cycberSoft\\Deploy\\AuthenticationService\\AuthentProject\\AuthentProject.csproj",
         "projectName": "AuthentProject",
-        "projectPath": "D:\\Work_space\\cycberSoft\\cycberSoft_dotnet2\\Session48_Microservice\\AuthenticationService\\AuthentProject\\AuthentProject.csproj",
+        "projectPath": "D:\\Work_space\\cycberSoft\\Deploy\\AuthenticationService\\AuthentProject\\AuthentProject.csproj",
         "packagesPath": "C:\\Users\\phatp\\.nuget\\packages\\",
-        "outputPath": "D:\\Work_space\\cycberSoft\\cycberSoft_dotnet2\\Session48_Microservice\\AuthenticationService\\AuthentProject\\obj\\",
+        "outputPath": "D:\\Work_space\\cycberSoft\\Deploy\\AuthenticationService\\AuthentProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

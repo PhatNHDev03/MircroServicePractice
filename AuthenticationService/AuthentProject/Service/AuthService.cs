@@ -29,7 +29,8 @@ namespace AuthentProject.Service
             {
                 Email = registerDTO.Email,
                 Username = registerDTO.Username,
-                PasswordHash = registerDTO.Password
+                PasswordHash = registerDTO.Password,
+                CreatedAt = DateTime.UtcNow
             };
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
@@ -43,7 +44,7 @@ namespace AuthentProject.Service
 
             //dùng kafka producer
             await _kafkaProducerService.PublishUserRegisteredEvent(user.Email, user.Username);
-            
+
             return new AuthResponse
             {
                 Token = Guid.NewGuid().ToString(),

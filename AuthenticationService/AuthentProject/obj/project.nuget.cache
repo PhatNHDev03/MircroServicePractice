@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZP7rfNgGaTY=",
+  "dgSpecHash": "oHZ5YXmZ9i4=",
   "success": true,
-  "projectFilePath": "D:\\Work_space\\cycberSoft\\cycberSoft_dotnet2\\Session48_Microservice\\AuthenticationService\\AuthentProject\\AuthentProject.csproj",
+  "projectFilePath": "D:\\Work_space\\cycberSoft\\Deploy\\AuthenticationService\\AuthentProject\\AuthentProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phatp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\phatp\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -16,7 +16,7 @@ namespace EmailProject.Service
             //config consumer
             var config = new ConsumerConfig
             {
-                BootstrapServers = "kafka:9092",
+                BootstrapServers = "178.128.82.105:9092",
                 GroupId = "email-service", //consumer group
                 AutoOffsetReset = AutoOffsetReset.Earliest
             };
